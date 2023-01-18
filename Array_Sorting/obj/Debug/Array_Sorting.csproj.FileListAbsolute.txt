@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\bin\Debug\Array_Sorting.exe.config
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\bin\Debug\Array_Sorting.exe
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\bin\Debug\Array_Sorting.pdb
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\obj\Debug\Array_Sorting.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\obj\Debug\Array_Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\obj\Debug\Array_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\obj\Debug\Array_Sorting.exe
+C:\Users\INSIGNIA PC\source\repos\Array_Sorting\Array_Sorting\obj\Debug\Array_Sorting.pdb

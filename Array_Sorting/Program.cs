@@ -10,7 +10,7 @@ namespace Array_Sorting
     {
         static void Main(string[] args)
         {
-            int[] arr = {3,2,1,5,4};
+            int[] arr = {3,2 ,1,5,4};
 
             sortArray(arr);
             Console.ReadLine();
